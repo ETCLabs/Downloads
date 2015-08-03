@@ -13,4 +13,5 @@
 [Download Now For Mac or Windows](https://github.com/ElectronicTheatreControlsLabs/EosSyncDemo/releases/)
 
 ## OSC Layouts
+![screenshot](https://raw.githubusercontent.com/ElectronicTheatreControlsLabs/Downloads/master/Images/OSCLayouts_TouchOSC_Screnshot.png)
 [OSCLayouts](https://github.com/ElectronicTheatreControlsLabs/OSCLayouts)
