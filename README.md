@@ -8,3 +8,6 @@
 
 ## OSCSpaceMouse
 [Download Now For Windows](https://github.com/ElectronicTheatreControlsLabs/OSCSpaceMouse/releases/)
+
+## OSC Layouts
+[OSCLayouts](https://github.com/ElectronicTheatreControlsLabs/OSCLayouts)
