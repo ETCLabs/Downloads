@@ -5,6 +5,7 @@
 [Download Now For Mac or Windows](https://github.com/ElectronicTheatreControlsLabs/OSCRouter/releases/)
 
 ## OSCSpaceMouse
+![screenshot](https://raw.githubusercontent.com/ElectronicTheatreControlsLabs/Downloads/master/Images/OSCSpaceMouse_Screenshot.png)
 [Download Now For Windows](https://github.com/ElectronicTheatreControlsLabs/OSCSpaceMouse/releases/)
 
 ## EosSyncDemo
