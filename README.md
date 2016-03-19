@@ -1,5 +1,10 @@
 # Downloads
 
+## OSCWidgets
+![screenshot](https://raw.githubusercontent.com/ElectronicTheatreControlsLabs/Downloads/master/Images/OSCWidgets.png)
+
+[Download Now For Mac or Windows](https://github.com/ElectronicTheatreControlsLabs/OSCWidgets/releases/)
+
 ## OSCRouter
 ![screenshot](https://raw.githubusercontent.com/ElectronicTheatreControlsLabs/Downloads/master/Images/OSCRouter_Screenshot.png)
 
